@@ -1,2 +1,2 @@
-print("This file was created within RStudio")
-print("And now it lives on GitHub")
+print("Esto fue creado en RStudio")
+print("Y ahora vive en GitHub")
